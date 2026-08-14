@@ -42,7 +42,7 @@ The project uses **PostgreSQL, SQL and Power BI** to transform raw order data in
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./Foodora_India_Dashboard.png)
+![Foodora India Dashboard](Foodora_India_Dashboards.png)
 
 
 ## 👩‍💻 About
